@@ -1,1 +1,1 @@
-# NC27
+# Projeto C27 para os alunos
